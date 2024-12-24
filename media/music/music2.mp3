@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>Скачать популярные mp3 песни | Слушать музыку онлайн бесплатно</title>
+    <meta name="description" content="Скачать популярные мп3 песни 2024 бесплатно или слушать музыку онлайн. Самая популярная музыка 2023">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <meta name="robots" content="noarchive">
+    <meta name="theme-color" content="#303538">
+            <link rel="canonical" href="https://hitster.fm/">
+        <link id="favicon" rel="icon" href="https://i-pleers.com/hitster/i/img/favicon.png" type="image/png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://i-pleers.com/hitster/i/play.png">
+    <link rel="manifest" href="/i/manifest.webmanifest">
+    <meta property="og:site_name" content="hitster.fm">
+            <meta property="og:image"
+              content="https://i-pleers.com/hitster/i/img/site_prw.png">
+        <meta property="og:type" content="music.song">
+    <meta property="og:url"
+          content="https://hitster.fm/">
+    <meta property="og:title" content="Скачать популярные mp3 песни | Слушать музыку онлайн бесплатно">
+        <link rel="dns-prefetch" href="https://api-vk.com">
+    <link rel="dns-prefetch" href="https://i-pleers.com">
+    <link rel="dns-prefetch" href="https://i-tsmusic.com">
+    <link rel="dns-prefetch" href="https://vk.i-tsmusic.com">
+    <link rel="dns-prefetch" href="https://dl01.dtmp3.pw">
+    <link rel="dns-prefetch" href="https://dl03.dtmp3.pw">
+    <link rel="dns-prefetch" href="https://is1-ssl.mzstatic.com">
+    <link rel="dns-prefetch" href="https://is2-ssl.mzstatic.com">
+    <link rel="dns-prefetch" href="https://is3-ssl.mzstatic.com">
+    <link rel="dns-prefetch" href="https://is4-ssl.mzstatic.com">
+    <link rel="dns-prefetch" href="https://is5-ssl.mzstatic.com">
+    
+            <link rel="stylesheet preload" as="style" href="/i/css/0.css?v=2.42">
+    </head>
+<body>
+
+<header id="header">
+    <div id="fixplayer-lcd-big"></div>
+    
+    <div id="header_x1" class="yes">
+
+        <nav id="menuToggle">
+            <input aria-label="menu" id="menu_checkbox" type="checkbox">
+            <span></span>
+            <span></span>
+            <span></span>
+            <ul id="menu">
+                <li><a href="/">Популярные</a></li>
+                <li><a href="/new">Новинки</a></li>
+                <li><a href="/top-music">Зарубежные</a></li>
+                <li><a href="/tik-tok">Тик-Ток</a></li>
+                <li><a href="/ringtone">Рингтоны</a></li>
+                <li><a href="/car-muzon">Музыка в машину</a></li>
+                <li><a href="/genre/kids">Детские</a></li>
+                <li><a href="/ukrainian">Украинские</a></li>
+                <li><a href="/shazam">Топ 50 шазам</a></li>
+                <li><a href="/vk">Скачать с вк</a></li>
+                <li><a href="/collections">Сборники</a></li>
+                <li><a href="/genre/dance">Клубная музыка</a></li>
+                <li><a href="/genre/pop">Поп музыка</a></li>
+                <li><a href="/genre/rock">Рок музыка</a></li>
+                <li><a href="/genre/rap">Рэп, Хип-Хоп</a></li>
+                <li><a href="/genre/metal">Метал</a></li>
+                <li><a href="/genre/jazz">Джаз и Блюз</a></li>
+                <li><a href="/genre/shanson">Шансон</a></li>
+                <li><a href="/genre/instrumental">Инструментальная</a></li>
+                <li><a href="/turkish">Турецкие</a></li>
+                <li><a href="/arabic">Арабские</a></li>
+                <li><a href="/ost">Саундтреки</a></li>
+                <li><a href="/background-music">Фоновая музыка</a></li>
+                <li><a href="/genres">Все жанры</a></li>
+            </ul>
+        </nav>
+
+                                <div id="user-block">
+                    <span id="user-block-xx" class="off">
+                        <i>Вход</i>
+                    </span>
+                </div>
+            
+        <div id="header_p">
+
+                <span id="he-fav"
+                      title="Моё избранное"><i>0</i></span>
+
+            <div id="he-search-ctr">
+                    <span title="Поиск" id="he-search-mob_search"></span>
+                <span title="Закрыть поиск" id="he-search-mob_close"></span>
+
+                <form id="he-search" method="post">
+                        <input type="text" name="q" id="he-search-text" value=""
+                               placeholder="Поиск – введите название песни или исполнителя" required autocomplete="off">
+                        <input type="submit" id="he-search-submit" value="">
+                        <a href="#" class="hidden" id="search-submitter"></a>
+                </form>
+
+            </div>
+        <div id="search-results"></div>
+        </div>
+
+    </div>
+</header>
+
+<nav class="main_menu_top">
+
+    <ul>
+        <li><a href="/">Популярные</a></li>
+        <li><a href="/new">Новинки</a></li>
+        <li><a href="/browse">Обзор</a></li>
+        
+    </ul>
+</nav>
+<main class="rtform" id="xx2">
+
+    <div id="xbody">
+
+        <div class="xblock">
+    <div class="xblock-p">
+        <ul class="stags">
+    <li><a  href="/genre/pop">Pop</a></li>
+    <li><a  href="/genre/rap">Rap</a></li>
+    <li><a  href="/genre/rock">Rock</a></li>
+    <li><a  href="/genre/metal">Metal</a></li>
+    <li><a  href="/genre/rnb">R&B</a></li>
+    <li><a  href="/genre/dance">Dance</a></li>
+    <li><a  href="/genre/electro">Electro</a></li>
+    <li><a  href="/genre/shanson">Шансон</a></li>
+    <li><a  href="/genre/instrumental">Instrumental</a></li>
+    <li><a  href="/genre/reggae">Reggae</a></li>
+    <li><a  href="/genre/jazz">Jazz</a></li>
+    <li><a  href="/genre/eurodance">Eurodance</a></li>
+    <li><a  href="/genre/trance">Trance</a></li>
+    <li><a  href="/genre/phonk">Phonk</a></li>
+    <li><a  href="/genre/drum-and-bass">DnB</a></li>
+</ul>    </div>
+</div>    <section id="xbody-content">
+        <div id="main_page_songs">
+            <div class="xblock">
+                <div class="main_menu_top genre-menu">
+                    <ul>
+                        <li><a href="/"  class="active" onclick="sortTop(0)">За день</a></li>
+                        <li><a href="/" onclick="sortTop(1)">За неделю</a></li>
+                        <li><a href="/" onclick="sortTop(2)">За месяц</a></li>
+                    </ul>
+                </div>
+                <div class="xblock-p">
+
+
+                            <ul class="playlist">
+                                <li class="track" data-mp3_id="367946" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Misha Miller, Alex Velea – Bam Bam" data-duration="02:30"        data-img="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/4e/45/a34e4559-11b2-c6e0-b9d8-46a846ee6578/cover.jpg/160x160bb.webp" data-id="-2001287246_132287246"
+        data-album="-2000472406_22472406_3cb2a598a32f97e206" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/4e/45/a34e4559-11b2-c6e0-b9d8-46a846ee6578/cover.jpg/160x160bb.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist"><a href="/artist/misha-miller">Misha Miller</a>, Alex Velea</b> <em
+                    class="playlist-name-title"> <a href="/song/367946-misha-miller-alex-velea-bam-bam">Bam Bam</a></em></h2>
+        </li>    <li class="track" data-mp3_id="350157" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Adam – Zhurek Isko Alvarez remix" data-duration="03:14"        data-img="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/c8/2a/e9c82a2d-af8c-f286-6d2c-daa5b014e0a9/cover.jpg/160x160bb.webp" data-id="-2001233888_124233888"
+        data-album="-2000467869_19467869_724eb9bc26199d7598" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/c8/2a/e9c82a2d-af8c-f286-6d2c-daa5b014e0a9/cover.jpg/160x160bb.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist"><a href="/artist/adam">Adam</a></b> <em
+                    class="playlist-name-title"> <a href="/song/350157-adam-zhurek-isko-alvarez-remix">Zhurek <span class="subtitle">Isko Alvarez remix</span></a></em></h2>
+        </li>    <li class="track" data-mp3_id="364464" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Umar Keyn – Lie (DNDM Remix)" data-duration="03:45"        data-img="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/1d/88/cc1d8857-b275-f6cc-ede2-959a26c85cba/cover.jpg/160x160bb.webp" data-id="-2001622788_129622788"
+        data-album="-2000530440_21530440_84a014ac2c813ac3b4" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/1d/88/cc1d8857-b275-f6cc-ede2-959a26c85cba/cover.jpg/160x160bb.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist"><a href="/artist/umar-keyn">Umar Keyn</a></b> <em
+                    class="playlist-name-title"> <a href="/song/364464-umar-keyn-lie-dndm-remix">Lie (DNDM Remix)</a></em></h2>
+        </li>    <li class="track" data-mp3_id="364076" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Sadraddin – Melodrama" data-duration="02:45"        data-img="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/e0/94/99e09407-8028-2dcf-08d0-359608522e0a/cover.jpg/160x160bb.webp" data-id="-2001756089_130756089"
+        data-album="-2000915394_21915394_c29c7f740af85b081a" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/e0/94/99e09407-8028-2dcf-08d0-359608522e0a/cover.jpg/160x160bb.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist"><a href="/artist/sadraddin">Sadraddin</a></b> <em
+                    class="playlist-name-title"> <a href="/song/364076-sadraddin-melodrama">Melodrama</a></em></h2>
+        </li>    <li class="track" data-mp3_id="363636" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Рустам Нахушев – Позвони мне" data-duration="04:25"        data-img="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/46/78/394678a2-db2c-cc74-6f58-e5a8afd62c05/cover.jpg/160x160bb.webp" data-id="-2001426683_123426683"
+        data-album="-2000183728_19183728_41e495663f1250d3ea" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/46/78/394678a2-db2c-cc74-6f58-e5a8afd62c05/cover.jpg/160x160bb.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist"><a href="/artist/rustam-nahushev">Рустам Нахушев</a></b> <em
+                    class="playlist-name-title"> <a href="/song/363636-rustam-nahushev-pozvoni-mne">Позвони мне</a></em></h2>
+        </li>    <li class="track" data-mp3_id="369241" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Михаил Шуфутинский, Artik  Asti – Зима-холода" data-duration="03:49"        data-img="https://vk.i-tsmusic.com/vk-cache/160/E4Y8xmq2u0wF1Eu7t_I7o4sAoSurW52ZnL0bLw!BtwQvA4Khhc.webp" data-id="-2001180758_133180758"
+        data-album="-2000776001_22776001_12a3757be18a5be250" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://vk.i-tsmusic.com/vk-cache/160/E4Y8xmq2u0wF1Eu7t_I7o4sAoSurW52ZnL0bLw!BtwQvA4Khhc.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist"><a href="/artist/mihail-shufutinskiy">Михаил Шуфутинский</a>, <a href="/artist/artik-asti">Artik & Asti</a></b> <em
+                    class="playlist-name-title"> <a href="/song/369241-mihail-shufutinskiy-artik-asti-zima-holoda">Зима-холода</a></em></h2>
+        </li>    <li class="track" data-mp3_id="270" data-mp3_url="dl03.dtmp3.pw" data-dl_name="C.C. CATCH – Cause You Are Young" data-duration="03:29"        data-img="https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/13/f5/6f/13f56fbe-3062-2e45-2f95-172a3d864f6c/source/160x160bb.webp" data-id="-2001100224_6100224"
+        data-album="-2000231077_231077_d664230d200f3f2bbd" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/13/f5/6f/13f56fbe-3062-2e45-2f95-172a3d864f6c/source/160x160bb.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist">C.C. CATCH</b> <em
+                    class="playlist-name-title"> <a href="/song/270-c-c-catch-cause-you-are-young">Cause You Are Young</a></em></h2>
+        </li>    <li class="track" data-mp3_id="311565" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Кравц, Гио Пика – Где прошла ты" data-duration="02:48"        data-img="https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/cc/0a/f6/cc0af6be-32d8-1ff3-d87e-2233a71b75b3/cover.jpg/160x160bb.webp" data-id="-2001691380_118691380"
+        data-album="-2000489809_17489809_a24242563ef72a9fed" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/cc/0a/f6/cc0af6be-32d8-1ff3-d87e-2233a71b75b3/cover.jpg/160x160bb.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist"><a href="/artist/kravc">Кравц</a>, <a href="/artist/gio-pika">Гио Пика</a></b> <em
+                    class="playlist-name-title"> <a href="/song/311565-kravc-gio-pika-gde-proshla-ty">Где прошла ты</a></em></h2>
+        </li>    <li class="track" data-mp3_id="288" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Dr. Alban – It's My Life" data-duration="03:59"        data-img="https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/05/f3/50/05f35007-cd61-1cca-4ada-a296d57e64ad/859381162513.jpg/160x160bb.webp" data-id="-2001451546_3451546"
+        data-album="" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/05/f3/50/05f35007-cd61-1cca-4ada-a296d57e64ad/859381162513.jpg/160x160bb.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist">Dr. Alban</b> <em
+                    class="playlist-name-title"> <a href="/song/288-dr-alban-its-my-life">It's My Life</a></em></h2>
+        </li>    <li class="track" data-mp3_id="219" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Дискотека Авария – Новогодняя" data-duration="04:28"        data-img="https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/81/24/6e/81246e82-b4a9-57cc-4f92-d9fb33507fad/cover.jpg/160x160bb.webp" data-id="-2001311047_8311047"
+        data-album="-2000647304_647304_eaca313fec7b6b0c93" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/81/24/6e/81246e82-b4a9-57cc-4f92-d9fb33507fad/cover.jpg/160x160bb.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist"><a href="/artist/diskoteka-avariya">Дискотека Авария</a></b> <em
+                    class="playlist-name-title"> <a href="/song/219-diskoteka-avariya-novogodnyaya">Новогодняя</a></em></h2>
+        </li>    <li class="track" data-mp3_id="291982" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Gustavo Santaolalla – Babel (Otnicka Remix)" data-duration="03:20"        data-img="https://i-pleers.com/hitster/i/img/songs/80/291982.webp" data-id="1674255262"
+        data-album="" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://i-pleers.com/hitster/i/img/songs/80/291982.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist"><a href="/artist/gustavo-santaolalla">Gustavo Santaolalla</a></b> <em
+                    class="playlist-name-title"> <a href="/song/291982-gustavo-santaolalla-babel-otnicka-remix">Babel (Otnicka Remix)</a></em></h2>
+        </li>    <li class="track" data-mp3_id="7749" data-mp3_url="dl03.dtmp3.pw" data-dl_name="Эндшпиль – Мой медленный яд" data-duration="04:32"        data-img="https://vk.i-tsmusic.com/vk-cache/160/c856128!v856128186!256284!JMJl3jCGfRs.webp" data-id="-2001671319_85671319"
+        data-album="-2000792270_10792270_e7e0176589ad8755e4" data-hash="">
+        <div class="playlist-btn"><span style="background-image: url(https://vk.i-tsmusic.com/vk-cache/160/c856128!v856128186!256284!JMJl3jCGfRs.webp);" class="playlist-btn-play" title="слушать онлайн">(слушать онлайн)</span></div>
+                    <em >
+                                                                    <i
+                            class="icon js-more list " >
+                        <span class="icon-more grey"></span>
+                    </i>
+                            </em>
+                <h2 class="playlist-name"><b class="playlist-name-artist"><a href="/artist/endshpil">Эндшпиль</a></b> <em
+                    class="playlist-name-title"> <a href="/song/7749-endshpil-moy-medlennyy-yad">Мой медленный яд</a></em></h2>
+        </li>
+
+                            </ul>
+
+                    <div class="load_more">
+                        <span data-offset="12" class="more_link">загрузить ещё</span>
+                    </div>
+
+
+
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+    <aside id="xbody-side1">
+        <section class="bl_side artist_block">
+            <img loading="lazy" width="256" height="256" class="img_desc" alt="Скачать песни 2024" title="Скачать песни 2024"
+                 src="https://i-pleers.com/hitster/i/img/main.png">
+            <div id="page-desc" class="artist_block-bio">
+                <br>
+                <h1>Скачать песни 2024</h1>
+                Hitster.fm – музыкальный портал, где вы сможете найти информацию об исполнителях, биографии, тексты песен. Рейтинги и новинки музыки, сборники и новые альбомы.            </div>
+        </section>
+    </aside>
+
+</div>
+
+    <div class="xblock">
+
+        <div class="artists">
+            <div class="artist-box">
+                <a class="album-link" href="/new-year">
+                    <img loading="lazy" alt="Новогодние и Рождественские песни" title="Новогодние и Рождественские песни" width="125" height="125" src="https://i-pleers.com/hitster/i/img/new_year.jpg">
+                    <span class="caption">Новогодние песни</span>
+                </a>
+            </div>
+            <div class="artist-box">
+                <a class="album-link" href="/ringtone">
+                    <img loading="eager" alt="Рингтоны на телефон" title="Рингтоны на телефон" width="125" height="125" src="https://i-pleers.com/hitster/i/img/ring.webp">
+                    <span class="caption">На телефон</span>
+                </a>
+            </div>
+            <div class="artist-box">
+                <a class="album-link" href="/russian90">
+                    <img loading="eager" alt="Русские 90х" title="Русские 90х" width="125" height="125" src="https://i-pleers.com/hitster/i/img/russian_90.webp">
+                    <span class="caption">Русские хиты 90</span>
+                </a>
+            </div>
+            <div class="artist-box">
+                <a class="album-link" href="/hits-80">
+                    <img loading="eager" alt="Зарубежные 80х" title="Зарубежные 80х" width="125" height="125" src="https://i-pleers.com/hitster/i/img/80s_music.webp">
+                    <span class="caption">Зарубежные 80</span>
+                </a>
+            </div>
+            <!--div class="artist-box">
+                <a class="album-link" href="/edm-music">
+                    <img loading="eager" alt="Electronic dance music" title="Electronic dance music" width="125" height="125" src="https://i-pleers.com/hitster/i/img/edm.webp">
+                    <span class="caption">EDM</span>
+                </a>
+            </div-->
+            <div class="artist-box">
+                <a class="album-link" href="/2000">
+                    <img loading="lazy" alt="Музыка 2000" title="Музыка 2000" width="125" height="125" src="https://i-pleers.com/hitster/i/img/2000.jpg">
+                    <span class="caption">Песни 2000</span>
+                </a>
+            </div>
+
+            <div class="artist-box">
+                <a class="album-link" href="/car-muzon">
+                    <img loading="lazy" alt="Музыку в машину" title="Музыку в машину" width="125" height="125" src="https://i-pleers.com/hitster/i/img/muzon.jpg">
+                    <span class="caption">Музыка в машину</span>
+                </a>
+            </div>
+            <div class="artist-box">
+                <a class="album-link" href="/vk">
+                    <img loading="lazy" alt="Музыка с вк" title="Музыка с вк" width="125" height="125" src="https://i-pleers.com/hitster/i/img/vk.png">
+                    <span class="caption">Скачать с вк</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <section class="xblock">
+        <h2 class="title">Слушать музыку онлайн</h2>
+        <p class="bl_side artist_block artist_block-bio">
+            Хотите современный <a class="link" href="/car-muzon">крутой музон</a>? Здесь собраны самые популярные и модные треки на данный момент, с нашего сайта вы сможете скачать популярную музыку к себе в машину или на мобильный телефон <a class="link" href="/ringtone">телефон</a>. Топ 100 популярных песен формируется на основе просмотров и количества прослушиваний пользователей сайта.        </p>
+
+    </section>
+
+
+</main>
+
+<footer id="footer">
+    <div id="footer_x1">
+
+            <span class="rt_share" data-url="https://hitster.fm/"
+                  data-title="Ну как, понравился сайт? Тогда поделись с друзьями!">
+
+
+                    <span class="rt_share-fb" title="Добавить в закладки в facebook"
+                          onclick="window.open('//facebook.com/sharer.php?u=https://hitster.fm/', '_blank', 'scrollbars=1, resizable=1, width=650, height=500'); return false;"></span>
+                    <span class="rt_share-vk" title="Добавить в закладки в VK"
+                          onclick="window.open('//vk.com/share.php?url=https://hitster.fm/', '_blank', 'scrollbars=1, resizable=1, width=650, height=500'); return false;"></span>
+                    <span class="rt_share-tw" title="Добавить в закладки в twitter"
+                          onclick="window.open('//twitter.com/share?url=https://hitster.fm/', '_blank', 'scrollbars=1, resizable=1, width=650, height=500'); return false;"></span>
+                    <span class="rt_share-ok" title="Добавить в закладки в ok"
+                          onclick="window.open('https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&amp;st.shareUrl=https://hitster.fm/', '_blank', 'scrollbars=1, resizable=1, width=650, height=500'); return false;"></span>
+
+            </span>
+
+        <ul class="foo-letters">
+            <li>a</li>
+            <li>b</li>
+            <li>c</li>
+            <li>d</li>
+            <li>e</li>
+            <li>f</li>
+            <li>g</li>
+            <li>h</li>
+            <li>i</li>
+            <li>j</li>
+            <li>k</li>
+            <li>l</li>
+            <li>m</li>
+            <li>n</li>
+            <li>o</li>
+            <li>p</li>
+            <li>q</li>
+            <li>r</li>
+            <li>s</li>
+            <li>t</li>
+            <li>u</li>
+            <li>v</li>
+            <li>w</li>
+            <li>x</li>
+            <li>y</li>
+            <li>z</li>
+            <li>0-9</li>
+            <li>а</li>
+            <li>б</li>
+            <li>в</li>
+            <li>г</li>
+            <li>д</li>
+            <li>е, ё</li>
+            <li>ж</li>
+            <li>з</li>
+            <li>и</li>
+            <li>к</li>
+            <li>л</li>
+            <li>м</li>
+            <li>н</li>
+            <li>о</li>
+            <li>п</li>
+            <li>р</li>
+            <li>с</li>
+            <li>т</li>
+            <li>у</li>
+            <li>ф</li>
+            <li>х</li>
+            <li>ц, ч</li>
+            <li>ш, щ</li>
+            <li>э</li>
+            <li>ю</li>
+            <li>я</li>
+            <li>Топ 100</li>
+        </ul>
+                <div>
+            ОOО «AдвМьюзик» заключил лицензионные соглашения с крупнейшими российскими правообладателями
+            на использование музыкальных произведений. <span class="footer_link"
+                                                             id="advmusic">Полная информация</span> <br><br>
+        </div>
+
+        <ul class="foo-menu grid padding_right-75">
+            <li>Контакты</li>
+            <li>TG: <a rel="noopener noreferrer" target="_blank" class="no-ajax"
+                       href="https://t.me/daranger">написать</a>
+            </li>
+            <li>email: 4sites.corp@gmail.com</li>
+                    </ul>
+
+        <div id="foo-copyright" class="grid">
+            Copyright &copy; 2024 hitster.fm.
+            Все права защищены.<br>
+            <span class="footer_link">Предупреждение об использовании файлов cookie</span>
+            <span class="footer_link">Пользовательское соглашение</span>
+            <span class="footer_link">Служба поддержки</span>
+        </div>
+            </div>
+</footer>
+
+
+<div id="modals"></div>
+<div id="fixplayer" class="noactive yes">
+    <div id="fixplayer-prok">
+        <div id="fixplayer-prok2">
+            <span id="fixplayer-prok-sk" style="width: 100%;"></span>
+            <span id="fixplayer-prok-pr" style="width: 0;"></span>
+            <div id="fixplayer-time">
+                <b>0:00</b>
+                <em>0:00</em>
+            </div>
+
+        </div>
+    </div>
+        <div id="fixplayer_x1">
+        <div id="mobile-song-image"></div>
+        <span title="включить / отключить звук" class="no-ajaxy on" id="fixplayer-sound"></span>
+        <div id="fixplayer-volume"><span id="fixplayer-volume-x" style="width: 100%;" data-volume="100%"></span></div>
+        <span title="сменить режим воспроизведения" class="line no-ajaxy" id="fixplayer-pv"></span>
+        <div id="fixplayer-lcd">
+            <div id="fixplayer-title">
+                        <span>
+								<b>hitster.fm</b>
+								<i>&ndash;</i>
+								<em>Самые популярные песни</em>
+                        </span>
+            </div>
+            <div id="fixplayer-notification"></div>
+        </div>
+
+        <div id="fixplayer-foo">
+            <span title="предыдущая" class="no-ajaxy" id="fixplayer-b_back"></span>
+                <i class="icon js-more">
+                    <span class="icon-more"></span>
+                </i>
+
+            <span title="воспроизвести" class="no-ajaxy" id="fixplayer-b_play"></span>
+            <span title="пауза" class="no-ajaxy hidden" id="fixplayer-b_pause"></span>
+            <span title="следующая" class="no-ajaxy" id="fixplayer-b_next"></span>
+        </div>
+    </div>
+</div>
+
+
+
+    <script>
+        if (location.href !== 'https://hitster.fm/') {
+            location.href = 'https://hitster.fm/';
+        }
+    </script>
+    <script src="/i/js/0.min.js?v=4.45c"></script>
+
+    <script>
+        function push() {
+            // let script = document.createElement('script');
+            //
+            // script.src = "https://tbwdoo.com/code/native.js?h=waWQiOjEwMDI0MjQsInNpZCI6MTE3OTk0NSwid2lkIjo0MTQ4MjgsInNyYyI6Mn0=eyJ";
+            //
+            // document.head.append(script);
+            // script.onload = function () {
+            //     document.body.removeEventListener("click", push);
+            // }
+        }
+
+        window.onload = ()=>{
+            if(("Notification" in window) && Notification.permission && Notification.permission==='default'){
+                document.body.addEventListener("click", push);
+            }
+        }
+    </script>
+    </body>
+</html>
